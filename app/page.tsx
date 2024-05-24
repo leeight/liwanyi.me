@@ -31,10 +31,14 @@ export default function Home() {
                 <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
                   Hi, I&apos;m Li Wanyi! I&apos;m a 6th grade student who loves
                   reading adventure books, watching sci-fi movies, and playing
-                  soccer with my friends. In my free time, you can find me
-                  exploring the outdoors, drawing in my sketchbook, or learning
-                  how to code. I&apos;m always curious to learn new things and
-                  try new activities.
+                  soccer with my friends.
+                  <br />
+                  In my free time, you can find me exploring the outdoors,
+                  drawing in my sketchbook, or learning how to code. <br />
+                  I&apos;m always curious to learn new things and try new
+                  activities. <br />
+                  You can reach out to me via email:&nbsp;
+                  <a href="mailto:hello@liwanyi.me">hello@liwanyi.me</a>
                 </p>
               </div>
               <div className="space-y-2 md:space-y-3">
